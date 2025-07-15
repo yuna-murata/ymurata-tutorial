@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 10,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "someone speaking"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "70ca1a7f-1e5e-4e67-8ad8-ae5f36546362"
+    }
+  ],
   "set": "Default",
   "event_id": "f11b4cdd-ece6-4f02-b5df-8cda3f92358c",
   "source_id": "0b6f7ce1-fc92-4e98-b35f-df0d2e6954d1"
