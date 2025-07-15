@@ -15,6 +15,22 @@
       ],
       "tags": [],
       "uuid": "70ca1a7f-1e5e-4e67-8ad8-ae5f36546362"
+    },
+    {
+      "start_time": 600,
+      "end_time": 900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "someone is speaking"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "83b7bc45-02d2-4a54-997a-2256621709b7"
     }
   ],
   "set": "Default",
