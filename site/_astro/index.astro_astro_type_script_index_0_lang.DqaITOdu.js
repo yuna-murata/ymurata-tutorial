@@ -1,0 +1,1 @@
+import{$ as i}from"./store.zaMV-uxg.js";const a=Array.from(document.querySelectorAll(".av-file"));i.listen((l,s,t)=>{if(!t||!l[t])return null;a.filter(e=>e.getAttribute("data-player-id")===t).forEach(e=>{const r=e.getAttribute("data-file-id");l[t].avFileUuid===r?e.classList.remove("hidden"):e.classList.add("hidden")})});

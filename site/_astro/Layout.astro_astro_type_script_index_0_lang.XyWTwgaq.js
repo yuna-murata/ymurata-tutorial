@@ -1,0 +1,1 @@
+import{d}from"./player.DQDFRdEJ.js";import{$ as s}from"./store.zaMV-uxg.js";document.addEventListener("astro:page-load",()=>{s.set({});const a=document.getElementsByClassName("mediaContainer");for(let t=0;t<a.length;t++){const e=a[t];e instanceof HTMLElement&&e.dataset.playerId&&s.setKey(e.dataset.playerId,{...d,id:e.dataset.playerUrl||""})}});
