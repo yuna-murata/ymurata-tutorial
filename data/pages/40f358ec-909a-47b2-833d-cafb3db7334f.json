@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-07-26T07:41:14.335Z",
+  "created_by": "yuna-murata",
+  "title": "kumano kawakudari",
+  "slug": "kumano-kawakudari",
+  "updated_at": "2025-07-26T07:41:14.335Z",
+  "updated_by": "yuna-murata",
+  "parent": "89d7dba1-62e9-460e-b895-1d65836914e0",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "f573276e-e54c-4225-9064-e3d5d1be8bbb"
+  }
+}
