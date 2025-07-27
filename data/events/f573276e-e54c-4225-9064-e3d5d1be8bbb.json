@@ -4,8 +4,8 @@
       "label": "",
       "is_offline": false,
       "file_type": "Video",
-      "file_url": "https://archive.org/details/img-3257_202507",
-      "duration": 0,
+      "file_url": "https://archive.org/download/img-3257_202507/IMG_3257.mp4",
+      "duration": 22,
       "caption_set": [],
       "set_sort": []
     }
@@ -25,6 +25,9 @@
   "label": "kumano kawakudari",
   "created_at": "2025-07-26T07:41:13.820Z",
   "created_by": "yuna-murata",
-  "updated_at": "2025-07-26T07:41:13.820Z",
-  "updated_by": "yuna-murata"
+  "updated_at": "2025-07-27T02:14:39.578Z",
+  "updated_by": "yuna-murata",
+  "av_file_order": [
+    "39944eeb-e270-42f7-895b-a92be6675d67"
+  ]
 }
