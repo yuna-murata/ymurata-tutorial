@@ -39,6 +39,22 @@
       ],
       "tags": [],
       "uuid": "b85d3d19-1f5e-42fe-9da5-8ceedd145883"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "すごい大きな石が見えます"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d5e5702e-4c80-4069-b572-06fa4d0464d7"
     }
   ],
   "set": "Default",
