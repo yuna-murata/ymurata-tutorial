@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-08-20T21:26:50.871Z",
+  "created_by": "yuna-murata",
+  "title": "Manyo-shu ",
+  "slug": "manyo-shu",
+  "updated_at": "2025-08-20T21:26:50.871Z",
+  "updated_by": "yuna-murata",
+  "parent": "89d7dba1-62e9-460e-b895-1d65836914e0",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "cb4b4576-d71a-464f-99b6-e435bf330ff6"
+  }
+}
