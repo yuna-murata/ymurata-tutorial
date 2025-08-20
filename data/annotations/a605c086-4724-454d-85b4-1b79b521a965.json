@@ -55,6 +55,22 @@
       ],
       "tags": [],
       "uuid": "d5e5702e-4c80-4069-b572-06fa4d0464d7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We can look rocks in the liver"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f4f7b155-2d1e-4c28-b094-af78ee83ec08"
     }
   ],
   "set": "Default",
