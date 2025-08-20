@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which means leaning rocks."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2d03c97f-926a-49d6-be33-81cd6d2d6cf5"
+    }
+  ],
   "set": "Default",
   "event_id": "f573276e-e54c-4225-9064-e3d5d1be8bbb",
   "source_id": "39944eeb-e270-42f7-895b-a92be6675d67"
